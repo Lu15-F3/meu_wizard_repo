@@ -4,7 +4,7 @@ zip="https://raw.githubusercontent.com/a4k-openproject/plugin.program.openwizard
 
 name="builds"
 version="1.0"
-url="https://dl.dropboxusercontent.com/scl/fi/is2nrt5hmy4x55w8cgm65/kodi_ambie_backup_202510011720.zip?rlkey=et7uul18dvoy81kydqnbtkl7e&dl=1"
+url="https://www.mediafire.com/file/az5kxfgf9ognh8y/kodi_ambie_backup_202510011720.zip/file"
 minor="http://"
 gui="http://"
 kodi="19+"
@@ -14,4 +14,5 @@ fanart="http://"
 preview="http://"
 adult="no"
 info="http://"
+
 description="Build personalizada."
